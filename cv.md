@@ -24,7 +24,7 @@ I'm currently learning JS from sources such as:
 * books
 
 There is no work experience in IT companies yet  
-Code examples (tasks, training projects) [link](https://github.com/gaydamovich)  
+Code examples (tasks, training projects) link [GitHub](https://github.com/gaydamovich)  
 Account link [Codewars](https://www.codewars.com/users/Gaydamovich)  
 Account Profile Link [HTMLAcademy](https://htmlacademy.ru/profile/id1189599)
 
