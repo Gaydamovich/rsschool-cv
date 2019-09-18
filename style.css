@@ -146,3 +146,66 @@ header {
     font-size: 20px;
     line-height: 150%;
 }
+
+/* styles for the block experience and skills */
+
+.wrap_experience{
+    background-color: #ffffff;
+    padding: 40px;
+    height: auto;
+    opacity: 0.9;
+
+}
+
+#skills {
+    padding: 5px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #575555;
+    font-size: 36px;
+}
+
+.wrapper_skills {
+    padding: 20px;
+    display: flex;
+}
+
+.block {
+    padding: 5px;
+    margin: 10px;
+}
+
+.left {
+    padding: 20px;
+    border-right: 2px solid lightslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    color: darkred;
+}
+
+.left a {
+    background-color: rgb(234, 248, 155);
+}
+
+.right {
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(66, 70, 67);
+}
+
+.right a {
+    background-color: rgb(234, 248, 155);
+}
+
+.right p:nth-child(2){
+    color: rgb(245, 59, 59);
+}
+
+.icon_skills {
+    padding: 2px;
+    margin: 20px auto;
+}
+
+.icon_skills img{
+    margin-left: 55px;
+}
