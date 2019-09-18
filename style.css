@@ -57,3 +57,60 @@ header {
     color: rgb(255, 255, 255);
     opacity: 0.8;
 }
+
+/* styles for the block personal information */
+
+#person_inform {
+    text-align: center;
+    padding: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #575555;
+    background-color: #ffffff;
+    font-size: 36px;
+}
+
+.info {
+    background-color: #ffffff;
+    height: auto;
+    display: flex;
+}
+
+#inform_name {
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26px;
+    color: #525252;
+}
+
+.wrapper_left {
+    width: 50%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.wrapper_left img{
+    border-radius: 60%;
+}
+
+.wrapper_right {
+    width: 50%;
+}
+
+#inform_contacts {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 26px;
+    color: #525252;
+}
+
+.list {
+    padding-left: 90px;
+}
+
+.list ul li {
+    margin: 15px;
+    color: rgb(101, 108, 116);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
